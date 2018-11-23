@@ -1,7 +1,0 @@
-C:\Users\pedro\source\repos\TesteHandPoker\TesteHandPoker\bin\Debug\TesteHandPoker.exe.config
-C:\Users\pedro\source\repos\TesteHandPoker\TesteHandPoker\bin\Debug\TesteHandPoker.exe
-C:\Users\pedro\source\repos\TesteHandPoker\TesteHandPoker\bin\Debug\TesteHandPoker.pdb
-C:\Users\pedro\source\repos\TesteHandPoker\TesteHandPoker\obj\Debug\TesteHandPoker.csprojResolveAssemblyReference.cache
-C:\Users\pedro\source\repos\TesteHandPoker\TesteHandPoker\obj\Debug\TesteHandPoker.csproj.CoreCompileInputs.cache
-C:\Users\pedro\source\repos\TesteHandPoker\TesteHandPoker\obj\Debug\TesteHandPoker.exe
-C:\Users\pedro\source\repos\TesteHandPoker\TesteHandPoker\obj\Debug\TesteHandPoker.pdb
